@@ -1,4 +1,4 @@
-# 🤖 Copiloto de Vendas com IA — Axon Labs
+# 🤖 Copiloto de Vendas com IA — PROJETO DIO
 
 Copiloto de IA que apoia o time comercial da **Axon Labs** (agência de automação
 com IA para PMEs e e-commerce) durante e depois das conversas com prospects:
